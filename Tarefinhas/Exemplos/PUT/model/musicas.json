@@ -1,0 +1,240 @@
+[
+    {
+      "id": 1,
+      "name": "Evidências",
+      "duration_ms": 279280,
+      "preview_url": "https://p.scdn.co/mp3-preview/3e4f45a788d7ecb0e87a32bf57119cd8124c8710?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 154,
+        "name": "Do Tamanho Do Nosso Amor",
+        "release_date": "2013-01-01",
+        "total_tracks": 14,
+        "url": "https://i.scdn.co/image/ab67616d00001e0252b5ab856085fe47ccec3cce"
+      },
+      "artists": {
+        "id": "7gfkYbxpguEc9bm6m8TpAr",
+        "name": "Chitãozinho & Xororó"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sinônimos",
+      "duration_ms": 312106,
+      "preview_url": "https://p.scdn.co/mp3-preview/e57b25e3645fbb8fe3288850a4cc44f348d24bcd?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 154,
+        "name": "Do Tamanho Do Nosso Amor",
+        "release_date": "2013-01-01",
+        "total_tracks": 14,
+        "url": "https://i.scdn.co/image/ab67616d00001e0252b5ab856085fe47ccec3cce"
+      },
+      "artists": {
+        "id": "7gfkYbxpguEc9bm6m8TpAr",
+        "name": "Chitãozinho & Xororó"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Malandragem - Ao Vivo",
+      "duration_ms": 240799,
+      "preview_url": "https://p.scdn.co/mp3-preview/0e3fe6e499ddbe90e4a3d46772b074c8b66aa3c1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 5345345,
+        "name": "Cássia Eller",
+        "release_date": "2001-01-15",
+        "total_tracks": 17,
+        "url": "https://i.scdn.co/image/ab67616d00001e021b9daff4eaffaa52f1a9c402"
+      },
+      "artists": {
+        "id": "10naVTwNjE50daQVrN0bXh",
+        "name": "Cássia Eller"
+      }
+    },
+    {
+      "id": 4,
+      "name": "O Segundo Sol - Ao Vivo",
+      "duration_ms": 257106,
+      "preview_url": "https://p.scdn.co/mp3-preview/a0b0a402e091b0480454abe33aadc7427eb07803?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 5345345,
+        "name": "Cássia Eller",
+        "release_date": "2001-01-15",
+        "total_tracks": 17,
+        "url": "https://i.scdn.co/image/ab67616d00001e021b9daff4eaffaa52f1a9c402"
+      },
+      "artists": {
+        "id": "10naVTwNjE50daQVrN0bXh",
+        "name": "Cássia Eller"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Shallow",
+      "duration_ms": 215733,
+      "preview_url": "https://p.scdn.co/mp3-preview/7706db75aa75d9ca46e51b54a9ebcb85bff71be6?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 874568,
+        "name": "A Star Is Born Soundtrack",
+        "release_date": "2018-10-05",
+        "total_tracks": 34,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e2d156fdc691f57900134342"
+      },
+      "artists": {
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Always Remember Us This Way",
+      "duration_ms": 210200,
+      "preview_url": "https://p.scdn.co/mp3-preview/f2adda4dc6d8d38513510111a8d48facc8a4998d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 874568,
+        "name": "A Star Is Born Soundtrack",
+        "release_date": "2018-10-05",
+        "total_tracks": 34,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e2d156fdc691f57900134342"
+      },
+      "artists": {
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Dona de mim",
+      "duration_ms": 208941,
+      "preview_url": "https://p.scdn.co/mp3-preview/1460bdbcb59204fa276e00f98c42cb52fed3d38f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 4752347,
+        "name": "Dona de mim",
+        "release_date": "2018-04-27",
+        "total_tracks": 14,
+        "url": "https://i.scdn.co/image/ab67616d00001e0236bcf89d1fa0c989c4384b62"
+      },
+      "artists": {
+        "id": "3zgnrYIltMkgeejmvMCnes",
+        "name": "IZA"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Ginga (Participação especial de Rincon Sapiência)",
+      "duration_ms": 180625,
+      "preview_url": "https://p.scdn.co/mp3-preview/0bd7e1bae5331e0ae33341977a731f17d3724bcb?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 4752347,
+        "name": "Dona de mim",
+        "release_date": "2018-04-27",
+        "total_tracks": 14,
+        "url": "https://i.scdn.co/image/ab67616d00001e0236bcf89d1fa0c989c4384b62"
+      },
+      "artists": {
+        "id": "3zgnrYIltMkgeejmvMCnes",
+        "name": "IZA"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Bixinho",
+      "duration_ms": 205945,
+      "preview_url": "https://p.scdn.co/mp3-preview/ff4003f32dcdc839d923f9366f3f03a0421363ca?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 6647845,
+        "name": "Sinto Muito",
+        "release_date": "2018-04-27",
+        "total_tracks": 11,
+        "url": "https://i.scdn.co/image/ab67616d00001e021d7513bbad99e03fea580da5"
+      },
+      "artists": {
+        "id": "2QLSJqqGIstNbO6nYRR16o",
+        "name": "DUDA BEAT"
+      }
+    },
+    {
+      "id": 10,
+      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
+      "duration_ms": 320800,
+      "preview_url": "https://p.scdn.co/mp3-preview/85ab4301ed0ca6dc9285a3a7def377a90b5eca7f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 2345376,
+        "name": "AmarElo",
+        "release_date": "2019-10-30",
+        "total_tracks": 11,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a4c3a6f5913f662897a388fa"
+      },
+      "artists": {
+        "id": "2d9LRvQJnAXRijqIJDDs2K",
+        "name": "Emicida"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
+      "duration_ms": 292013,
+      "preview_url": "https://p.scdn.co/mp3-preview/fdeed8b483ddb6c0ae12b7381698be65a82a088e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 2345376,
+        "name": "AmarElo",
+        "release_date": "2019-10-30",
+        "total_tracks": 11,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a4c3a6f5913f662897a388fa"
+      },
+      "artists": {
+        "id": "2d9LRvQJnAXRijqIJDDs2K",
+        "name": "Emicida"
+      }
+    },
+    {
+      "id": 12,
+      "name": "We Are The Champions - Remastered 2011",
+      "duration_ms": 179200,
+      "preview_url": "https://p.scdn.co/mp3-preview/6a8fbda81a219fc7f49fc4a4ecc1d027934b66e5?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 888479,
+        "name": "News Of The World (2011 Remaster)",
+        "release_date": "1977-10-28",
+        "total_tracks": 11,
+        "url": "https://i.scdn.co/image/ab67616d00001e021f7077ae1018b5fbab08dfa8"
+      },
+      "artists": {
+        "id": "1dfeR4HaWDbWqFHLkxsg1d",
+        "name": "Queen"
+      }
+    },
+    {
+      "id": 13,
+      "name": "I Want To Break Free - Single Remix",
+      "duration_ms": 258013,
+      "preview_url": "https://p.scdn.co/mp3-preview/8edf7f5ee363b1e882384b3d8f77970518b61c34?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 25577846,
+        "name": "The Works (2011 Remaster)",
+        "release_date": "1984-02-27",
+        "total_tracks": 9,
+        "url": "https://i.scdn.co/image/ab67616d00001e025be5f807f6f0549e198a44b4"
+      },
+      "artists": {
+        "id": "1dfeR4HaWDbWqFHLkxsg1d",
+        "name": "Queen"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Graveto - Ao Vivo",
+      "duration_ms": 170877,
+      "preview_url": "https://p.scdn.co/mp3-preview/91c03916fa7c5ff1a6fe5fe93fe9a79ec486374e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "album": {
+        "id": 486584979,
+        "name": "Graveto (Ao Vivo)",
+        "release_date": "2020-01-10",
+        "total_tracks": 1,
+        "url": "https://i.scdn.co/image/ab67616d00001e027b398842d516b65eb6f77fcb"
+      },
+      "artists": {
+        "id": "1yR65psqiazQpeM79CcGh8",
+        "name": "Marília Mendonça"
+      }
+    }
+  ]
