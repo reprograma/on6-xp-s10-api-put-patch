@@ -111,9 +111,6 @@ Para resolver isso de forma elegante a adote por convenção, um quinto verbo HT
 * Envia de fato o que foi alterado 
 * Além também de dizer qual o ID como parâmetro, para que o serviço saiba o que vai ser alterado.
 
-Tem material de **Apoio** pra estudar em casa! A [documentação está disponível aqui](https://www.).
-
-
 ---
 
 ## Tarefinhas
@@ -122,19 +119,19 @@ Tem material de **Apoio** pra estudar em casa! A [documentação está disponív
 
 | Recurso | Descrição |
 | --- | --- |
+| `/musicas` | A partir do parâmetro ID para escolher uma determinada música, vamos alterar o nome da música usando o PUT|
+
+| Recurso | Descrição |
+| --- | --- |
+| `/musicas` | A partir de um parâmetro para escolher uma determinada música, usando o PATCH vamos alterar o nome da música|
+
+| Recurso | Descrição |
+| --- | --- |
 | `/albuns` | A partir de um parâmetro para escolher um determinado album, vamos alterar o dado de name, usando o verbo PUT|
 
 | Recurso | Descrição |
 | --- | --- |
 | `/albuns` |  A partir de um parâmetro para escolher um determinado album, vamos alterar o dado de name, usando o verbo PATCH|
-
-| Recurso | Descrição |
-| --- | --- |
-| `/músicas` | A partir do parâmetro ID para escolher uma determinada música, vamos alterar todos os dados dessa música usando o PUT, tornando uma música completamente nova no model|
-
-| Recurso | Descrição |
-| --- | --- |
-| `/músicas` | A partir de um parâmetro para escolher uma determinada música, usando o PATCH vamos alterar apenas a imagem(vms pegar no Google) e o artista(vms trocar pelo nome de batismo)|
 
 ---
 **Desafio:**

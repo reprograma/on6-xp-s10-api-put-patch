@@ -24,11 +24,13 @@ O json com os dados que vamos usar na nossa API é o arquivo `games.json` que es
 
 | Recurso | Descrição |
 | --- | --- |
-| `/jogos` | A partir do parâmetro ID para escolher um determinado jogo, vamos alterar todos os dados desse jogo usando o PUT, tornando um jogo completamente novo no model|
+| `/jogos` | A partir do parâmetro ID para escolher um determinado jogo, vamos alterar o dado de company desse jogo usando o PUT|
 
 | Recurso | Descrição |
 | --- | --- |
-| `/jogos` | A partir de um parâmetro para escolher um determinado jogo, usando o PATCH vamos alterar apenas a cover(pegar no Google o link de uma nova imagem)|
+| `/jogos` | A partir de um parâmetro para escolher um determinado jogo, usando o PATCH vamos alterar o dado de company desse jogo
+3
+|
 
 
 ## Como Fazer?
@@ -44,7 +46,7 @@ Lembre de usar o postman para testar se a solução tá certinha a partir das ro
 
 ## Como vai ser a entrega ?
 
-Forka o nosso repo, clona o seu repo que foi criado a partir do fork, cria uma branch com seu nome, faz commit e push no seu próprio repo e depois faz um pull request para nosso repo reprograma.
+Você vai criar todo projeto em uma pasta no seu repositório do github e quando estiver prontinho você vai mandar o link pra gente. Vamos te passar o link da planilha de entrega dos exercícios.
 
 ## E lembrem...
 Usem o plantão de dúvidas, assistam a gravação da aula, tragam as dúvidas para a revisão. E se ainda assim não conseguir, solicite ajuda da coleguinha. Sabemos que está ficando mais puxado, vamos nos ajudar mutuamente!
