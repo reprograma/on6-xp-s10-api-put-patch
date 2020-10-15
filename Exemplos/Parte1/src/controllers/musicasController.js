@@ -24,11 +24,16 @@ const update = (request, response) =>{
     const id = parseInt(request.params.id)
     const musicaParaAtualizar = musicas.find(musica=>musica.id == id)
 
-    Object.keys(musicaAtualizacao).forEach((key)=>{
-        musicaParaAtualizar[key] = musicaAtualizacao[key]
+
+    // for(chave in musicaAtualizacao){
+    //     musicaParaAtualizar[chave] = musicaAtualizacao[chave]
+    // }
+
+    Object.keys(musicaAtualizacao).forEach((chave)=>{
+        musicaParaAtualizar[chave] = musicaAtualizacao[chave]
     })
 
-    response.status(200).send(musicas)
+    response.status(200).send(musicaParaAtualizar)
 }
 
 module.exports = {
